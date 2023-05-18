@@ -28,7 +28,7 @@ I primarily develop in C++ and extensively use CMake.
 
 ### Test Modules
 
-Modules that are highly experimental and not currently needed at the moment.
+Modules that are highly experimental and not currently needed.
 
 + [MetaData](https://github.com/chcly/Module.MetaData) - Converts CastXML output into a type library .  
 + [Python](https://github.com/chcly/Module.Python) - C++ setup to begin a custom binding generator using MetaData.
