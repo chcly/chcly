@@ -20,7 +20,7 @@ I primarily develop in C++ and extensively use CMake.
 + [CMakeModules](https://github.com/chcly/CMakeModules) - Provides a glue for linking together submodules as well as other miscalenious utilities.
 + [Utils](https://github.com/chcly/Module.Utils.git) - Contains foundation code that is used to construct higher level projects.
 + [ParserBase](https://github.com/chcly/Module.ParserBase) - Is a base class library that can be used to derive more specific parsers.
-+ [Xml](https://github.com/chcly/Module.Xml) - Uses ParserBase to interpret a sequence of text in XML format and store the result in a tree.
++ [Xml](https://github.com/chcly/Module.Xml) - A basic Xml parser.
 + [Svg](https://github.com/chcly/Module.Svg) - Is a utility to aid in visual debugging.
 + [Thread](https://github.com/chcly/Module.Thread) - Basic std::thread utility library, optionally uses TBB.
 + [Math](https://github.com/chcly/Module.Math) - Utility math library
