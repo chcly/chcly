@@ -62,7 +62,7 @@ Modules that are highly experimental but not currently needed.
 
 + [Cloud](https://github.com/chcly/Cloud) - Test database system.
 + [DataLogger](https://github.com/chcly/java-class-final) - Java programming class final.
-+ [FlutterTest](https://github.com/chcly/FlutterTest) - Experiments with flutter.
++ [WaterParkSim](https://github.com/chcly/WaterParkSim) - Experiments with flutter.
 
 ## Sample Builds
 
