@@ -26,14 +26,19 @@ I primarily develop in C++ and extensively use CMake.
 + [Math](https://github.com/chcly/Module.Math) - Utility math library.
 + [View](https://github.com/chcly/Module.View) - Custom widgets and utilities for Qt.
 
-### Test Modules
+### Samples
+
++ [DirectoryView](https://github.com/chcly/DirectoryViewer) - Test file system browser.
++ [Jam](https://github.com/chcly/Jam) - Basic graphing calculator.
+
+## Test Modules
 
 Modules that are highly experimental but not currently needed.
 
 + [MetaData](https://github.com/chcly/Module.MetaData) - Converts CastXML output into a type library.  
 + [Python](https://github.com/chcly/Module.Python) - Setup to experiment with a custom binding generator using MetaData.
 
-### Templates
+## Templates
 
 + [ModuleTemplate](https://github.com/chcly/template) - Repository template for adding new submodules.
 + [QtTemplate](https://github.com/chcly/QtTemplate) - Repository template for adding new Qt projects.
@@ -42,11 +47,6 @@ Modules that are highly experimental but not currently needed.
 
 + [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
 + [code-proxy](https://github.com/chcly/code-proxy) - Work around to control VSCode directories and make updates easier to install.  
-
-## Current Samples
-
-+ [DirectoryView](https://github.com/chcly/DirectoryViewer) - Test file system browser.
-+ [Jam](https://github.com/chcly/Jam) - Basic graphing calculator.
 
 ## Older Works
 
