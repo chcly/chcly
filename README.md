@@ -45,6 +45,7 @@ Modules that are highly experimental but not currently needed.
 
 ## Utility programs
 
++ [InspectionTools](https://github.com/chcly/InspectionTools) - Various command line utilities.
 + [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
 + [code-proxy](https://github.com/chcly/code-proxy) - Work around to control VSCode directories and make updates easier to install.  
 
@@ -52,11 +53,16 @@ Modules that are highly experimental but not currently needed.
 
    Can be referenced and scraped for spare parts or re-envisioned.
 
-+ [InspectionTools](https://github.com/chcly/InspectionTools) - Various command line utilities.
 + [RayTracer](https://github.com/chcly/RayTracer) - Educational ray tracer.
 + [MockVM](https://github.com/chcly/MockVM) - Mock assembly compiler and debugger.
 + [Coursera-HackComputer](https://github.com/chcly/HackComputer) - Circuit emulator and virtual computer.
 + [CmdUi](https://github.com/chcly/CmdUi) - Basic cross platform console UI.
+
+### Unrelated Works
+
++ [Cloud](https://github.com/chcly/Cloud) - Test database system.
++ [DataLogger](https://github.com/chcly/java-class-final) - Java programming class final.
++ [FlutterTest](https://github.com/chcly/FlutterTest) - Experiments with flutter.
 
 ## Sample Builds
 
