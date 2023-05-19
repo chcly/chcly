@@ -30,8 +30,8 @@ I primarily develop in C++ and extensively use CMake.
 
 Modules that are highly experimental but not currently needed.
 
-+ [MetaData](https://github.com/chcly/Module.MetaData) - Converts CastXML output into a type library .  
-+ [Python](https://github.com/chcly/Module.Python) - C++ setup to begin a custom binding generator using MetaData.
++ [MetaData](https://github.com/chcly/Module.MetaData) - Converts CastXML output into a type library.  
++ [Python](https://github.com/chcly/Module.Python) - Setup to experiment with a custom binding generator using MetaData.
 
 ### Templates
 
@@ -53,9 +53,10 @@ Modules that are highly experimental but not currently needed.
    Can be referenced and scraped for spare parts or re-envisioned.
 
 + [InspectionTools](https://github.com/chcly/InspectionTools) - Various command line utilities.
-+ [RayTracer](https://github.com/chcly/Raytracer) - Educational ray tracer.
++ [RayTracer](https://github.com/chcly/RayTracer) - Educational ray tracer.
 + [MockVM](https://github.com/chcly/MockVM) - Mock assembly compiler and debugger.
 + [Coursera-HackComputer](https://github.com/chcly/HackComputer) - Circuit emulator and virtual computer.
++ [CmdUi](https://github.com/chcly/CmdUi) - Basic cross platform console UI.
 
 ## Sample Builds
 
