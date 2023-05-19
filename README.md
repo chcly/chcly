@@ -58,12 +58,6 @@ Modules that are highly experimental but not currently needed.
 + [Coursera-HackComputer](https://github.com/chcly/HackComputer) - Circuit emulator and virtual computer.
 + [CmdUi](https://github.com/chcly/CmdUi) - Basic cross platform console UI.
 
-### Unrelated Works
-
-+ [Cloud](https://github.com/chcly/Cloud) - Test database system.
-+ [DataLogger](https://github.com/chcly/java-class-final) - Java programming class final.
-+ [WaterParkSim](https://github.com/chcly/WaterParkSim) - Experiments with flutter.
-
 ## Sample Builds
 
 + [DirectoryView](https://github.com/chcly/DirectoryViewer/releases/download/v1.0.0/build-windows-x86_64.zip)
