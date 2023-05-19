@@ -2,11 +2,6 @@
 
 I primarily develop in C++ and extensively use CMake.
 
-## Goals
-
-+ To be able to sustain coding for a living by achieving a _modest_ pay for my efforts.
-+ Work as part of a team to develop more complex projects and solutions.
-
 ## Focus and Interests
 
 + Desktop tools and solutions.
@@ -48,6 +43,7 @@ Modules that are highly experimental but not currently needed.
 + [InspectionTools](https://github.com/chcly/InspectionTools) - Various command line utilities.
 + [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
 + [code-proxy](https://github.com/chcly/code-proxy) - Work around to control VSCode directories and make updates easier to install.  
++ [ModuleCheck](https://github.com/chcly/ModuleCheck) - Utility to manage multiple repositories.
 
 ## Older Works
 
@@ -67,9 +63,3 @@ Modules that are highly experimental but not currently needed.
 + [MockVM](https://github.com/chcly/MockVM/releases/download/v1.0.0/mockvm_minsizerel_windows.zip)
 + [HackComputer](https://github.com/chcly/HackComputer/releases)
 
-## Status
-
-I'm currently focusing towards more UI related development and sample projects.
-
-I'm open to public or private collaborations.
-If you would like to discuss potential projects you can find me on [linked in](https://www.linkedin.com/in/charles-carley/)
