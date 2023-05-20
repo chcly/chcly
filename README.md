@@ -54,14 +54,6 @@ Modules that are highly experimental but not currently needed.
 + [MockVM](https://github.com/chcly/MockVM) - Mock assembly compiler and debugger.
 + [HackComputer](https://github.com/chcly/HackComputer) - Circuit emulator and virtual computer. (Coursera)
 
-### Bridging Works
-
-Demonstrates bridging the gap from low to high level with web assembly.
-
-+ [Tetris](https://github.com/chcly/Tetris) - Tetris clone.
-+ [VsEmscripten](https://github.com/chcly/vs-emscripten) - Used to compile the Tetris [binary](https://chcly.github.io/Tetris/) as web assembly.
-+ [WaterParkSim](https://github.com/chcly/WaterParkSim) - Test with newer technologies like [flutter](https://chcly.github.io/WaterParkSim/#/).
-
 ## Sample Builds
 
 [https://github.com/chcly/chcly/releases](https://github.com/chcly/chcly/releases)
