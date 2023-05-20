@@ -26,23 +26,24 @@ I primarily develop in C++ and extensively use CMake.
 + [DirectoryView](https://github.com/chcly/DirectoryViewer) - Test file system browser.
 + [Jam](https://github.com/chcly/Jam) - Basic graphing calculator.
 
-## Test Modules
+### Test Modules
 
 Modules that are highly experimental but not currently needed.
 
 + [MetaData](https://github.com/chcly/Module.MetaData) - Converts CastXML output into a type library.  
 + [Python](https://github.com/chcly/Module.Python) - Setup to experiment with a custom binding generator using MetaData.
++ [CmdUi](https://github.com/chcly/CmdUi) - Cross platform console UI.
 
-## Templates
+### Templates
 
 + [ModuleTemplate](https://github.com/chcly/template) - Repository template for adding new submodules.
 + [QtTemplate](https://github.com/chcly/QtTemplate) - Repository template for adding new Qt projects.
 
-## Utility programs
+### Utility programs
 
 + [InspectionTools](https://github.com/chcly/InspectionTools) - Various command line utilities.
 + [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
-+ [code-proxy](https://github.com/chcly/code-proxy) - Work around to control VSCode directories and make updates easier to install.  
++ [CodeProxy](https://github.com/chcly/code-proxy) - Work around to control VSCode directories and make updates easier to install.  
 + [ModuleCheck](https://github.com/chcly/ModuleCheck) - Utility to manage multiple repositories.
 
 ## Older Works
@@ -51,10 +52,15 @@ Modules that are highly experimental but not currently needed.
 
 + [RayTracer](https://github.com/chcly/RayTracer) - Educational ray tracer.
 + [MockVM](https://github.com/chcly/MockVM) - Mock assembly compiler and debugger.
-+ [Coursera-HackComputer](https://github.com/chcly/HackComputer) - Circuit emulator and virtual computer.
-+ [CmdUi](https://github.com/chcly/CmdUi) - Cross platform console UI.
++ [HackComputer](https://github.com/chcly/HackComputer) - Circuit emulator and virtual computer. (Coursera)
+
+### Bridging Works
+
+Demonstrates bridging the gap from low to high level.
+
 + [Tetris](https://github.com/chcly/Tetris) - Tetris clone.
-+ [vs-emscripten](https://github.com/chcly/vs-emscripten) - Used to compile the Tetris [binary](https://chcly.github.io/Tetris/) as web assembly.
++ [VsEmscripten](https://github.com/chcly/vs-emscripten) - Used to compile the Tetris [binary](https://chcly.github.io/Tetris/) as web assembly.
++ [WaterParkSim](https://github.com/chcly/WaterParkSim) - Test with newer technologies like ([flutter](https://chcly.github.io/WaterParkSim/#/)).
 
 ## Sample Builds
 
