@@ -43,7 +43,7 @@ Modules that are highly experimental but not currently needed.
 
 + [InspectionTools](https://github.com/chcly/InspectionTools) - Various command line utilities.
 + [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
-+ [CodeProxy](https://github.com/chcly/code-proxy) - Work around to control VSCode directories and make updates easier to install.  
++ [CodeLauncher](https://github.com/chcly/CodeLauncher) - Work around to control VSCode directories and make updates easier to install.  
 + [ModuleCheck](https://github.com/chcly/ModuleCheck) - Utility to manage multiple repositories.
 
 ## Older Works
@@ -56,11 +56,11 @@ Modules that are highly experimental but not currently needed.
 
 ### Bridging Works
 
-Demonstrates bridging the gap from low to high level.
+Demonstrates bridging the gap from low to high level with web assembly.
 
 + [Tetris](https://github.com/chcly/Tetris) - Tetris clone.
 + [VsEmscripten](https://github.com/chcly/vs-emscripten) - Used to compile the Tetris [binary](https://chcly.github.io/Tetris/) as web assembly.
-+ [WaterParkSim](https://github.com/chcly/WaterParkSim) - Test with newer technologies like ([flutter](https://chcly.github.io/WaterParkSim/#/)).
++ [WaterParkSim](https://github.com/chcly/WaterParkSim) - Test with newer technologies like [flutter](https://chcly.github.io/WaterParkSim/#/).
 
 ## Sample Builds
 
