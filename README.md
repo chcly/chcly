@@ -53,6 +53,7 @@ Modules that are highly experimental but not currently needed.
 + [MockVM](https://github.com/chcly/MockVM) - Mock assembly compiler and debugger.
 + [Coursera-HackComputer](https://github.com/chcly/HackComputer) - Circuit emulator and virtual computer.
 + [CmdUi](https://github.com/chcly/CmdUi) - Basic cross platform console UI.
++ [Tetris](https://github.com/chcly/Tetris) - Tetris clone.
 
 ## Sample Builds
 
