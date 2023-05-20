@@ -56,11 +56,4 @@ Modules that are highly experimental but not currently needed.
 
 ## Sample Builds
 
-Currently all binaries are x64 Windows.
-
-+ [DirectoryView](https://github.com/chcly/DirectoryViewer/releases/download/v1.0.0/build-windows-x86_64.zip)
-+ [Jam](https://github.com/chcly/Jam/releases/download/v1.0.0/build-win-v1.0.0.zip)
-+ [RayTracer](https://github.com/chcly/raytracer/releases/download/v1.0.0/build-windows-x64.zip)
-+ [InspectionTools](https://github.com/chcly/InspectionTools/releases/download/v1.0.0/build-windows-x86_64.zip)
-+ [MockVM](https://github.com/chcly/MockVM/releases/download/v1.0.0/mockvm_minsizerel_windows.zip)
-+ [HackComputer](https://github.com/chcly/HackComputer/releases)
+[https://github.com/chcly/chcly/releases](https://github.com/chcly/chcly/releases)
