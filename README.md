@@ -20,6 +20,7 @@ I primarily develop in C++ and extensively use CMake.
 + [Thread](https://github.com/chcly/Module.Thread) - std::thread utility library, optionally uses TBB.
 + [Math](https://github.com/chcly/Module.Math) - Utility math library.
 + [View](https://github.com/chcly/Module.View) - Custom widgets and utilities for Qt.
++ [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
 
 ### Samples
 
@@ -42,7 +43,6 @@ Modules that are highly experimental but not currently needed.
 ### Utility programs
 
 + [InspectionTools](https://github.com/chcly/InspectionTools) - Various command line utilities.
-+ [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
 + [CodeLauncher](https://github.com/chcly/CodeLauncher) - Work around to control VSCode directories and make updates easier to install.  
 + [ModuleCheck](https://github.com/chcly/ModuleCheck) - Utility to manage multiple repositories.
 
