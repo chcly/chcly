@@ -60,4 +60,4 @@ Modules that are highly experimental but not currently needed.
 
 [https://github.com/chcly/chcly/releases](https://github.com/chcly/chcly/releases)
 
-+ [Status]([https://github.com/chcly/BuildStatus]) - Current status of the source.
++ [Status](https://github.com/chcly/BuildStatus) - Current status of the source.
