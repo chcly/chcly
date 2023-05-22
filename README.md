@@ -34,7 +34,7 @@ Modules that are highly experimental but not currently needed.
 
 + [MetaData](https://github.com/chcly/Module.MetaData) - Converts CastXML output into a type library.  
 + [Python](https://github.com/chcly/Module.Python) - Setup to experiment with a custom binding generator using MetaData.
-+ [CmdUi](https://github.com/chcly/CmdUi) - Cross platform console UI.
++ [CmdUi](https://github.com/chcly/CmdUi) - Console UI.
 
 ### Templates
 
