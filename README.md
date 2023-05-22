@@ -28,7 +28,6 @@ I primarily develop in C++ and extensively use CMake.
 + [DirectoryView](https://github.com/chcly/DirectoryViewer) - Test file system browser.
 + [Jam](https://github.com/chcly/Jam) - Basic graphing calculator.
 
-
 ### Test Modules
 
 Modules that are highly experimental but not currently needed.
@@ -46,7 +45,7 @@ Modules that are highly experimental but not currently needed.
 
 + [InspectionTools](https://github.com/chcly/InspectionTools) - Various command line utilities.
 + [CodeLauncher](https://github.com/chcly/CodeLauncher) - Work around to control VSCode directories and make updates easier to install.  
-+ [ModuleCheck](https://github.com/chcly/ModuleCheck) - Utility to manage multiple repositories.
++ [ModuleCheck](https://github.com/chcly/ModuleCheck) - Utility to manage multiple local repositories.
 
 ## Older Works
 
@@ -58,6 +57,5 @@ Modules that are highly experimental but not currently needed.
 
 ## Sample Builds
 
-[https://github.com/chcly/chcly/releases](https://github.com/chcly/chcly/releases)
-
++ [Samples](https://github.com/chcly/chcly/releases) - Windows x64.
 + [Status](https://github.com/chcly/BuildStatus) - Current status of the source.
