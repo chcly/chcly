@@ -28,6 +28,7 @@ I primarily develop in C++ and extensively use CMake.
 + [DirectoryView](https://github.com/chcly/DirectoryViewer) - Test file system browser.
 + [Jam](https://github.com/chcly/Jam) - Basic graphing calculator.
 
+
 ### Test Modules
 
 Modules that are highly experimental but not currently needed.
@@ -58,3 +59,5 @@ Modules that are highly experimental but not currently needed.
 ## Sample Builds
 
 [https://github.com/chcly/chcly/releases](https://github.com/chcly/chcly/releases)
+
++ [Status]([https://github.com/chcly/BuildStatus]) - Current status of the source.
