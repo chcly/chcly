@@ -22,6 +22,7 @@ I primarily develop in C++ and extensively use CMake.
 + [Expression](https://github.com/chcly/Module.Expression) - Positfix based text compiler.
 + [View](https://github.com/chcly/Module.View) - Custom widgets and utilities for Qt.
 + [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
++ [Status](https://github.com/chcly/BuildStatus) - Current build status.
 
 ### Samples
 
@@ -58,4 +59,3 @@ Modules that are highly experimental but not currently needed.
 ## Sample Builds
 
 + [Samples](https://github.com/chcly/chcly/releases) - Windows x64.
-+ [Status](https://github.com/chcly/BuildStatus) - Current status of the source.
