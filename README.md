@@ -24,11 +24,6 @@ I primarily develop in C++ and extensively use CMake.
 + [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
 + [Status](https://github.com/chcly/BuildStatus) - Current build status.
 
-### Samples
-
-+ [DirectoryView](https://github.com/chcly/DirectoryViewer) - Test file system browser.
-+ [Jam](https://github.com/chcly/Jam) - Basic graphing calculator.
-
 ### Test Modules
 
 Modules that are highly experimental but not currently needed.
@@ -52,6 +47,8 @@ Modules that are highly experimental but not currently needed.
 
    Can be referenced and scraped for spare parts or re-envisioned.
 
++ [DirectoryView](https://github.com/chcly/DirectoryViewer) - Test file system browser.
++ [Jam](https://github.com/chcly/Jam) - Basic graphing calculator.
 + [RayTracer](https://github.com/chcly/RayTracer) - Educational ray tracer.
 + [MockVM](https://github.com/chcly/MockVM) - Mock assembly compiler and debugger.
 + [HackComputer](https://github.com/chcly/HackComputer) - Circuit emulator and virtual computer. (Coursera)
