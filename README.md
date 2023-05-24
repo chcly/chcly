@@ -5,8 +5,8 @@ I primarily develop in C++ and extensively use CMake.
 ## Focus and Interests
 
 + Desktop tools and solutions.
-+ Computer graphics and realtime rendering.
 + Compilers and data serialization.
++ Computer graphics and realtime rendering.
 
 ## Current Work
 
@@ -22,6 +22,7 @@ I primarily develop in C++ and extensively use CMake.
 + [Expression](https://github.com/chcly/Module.Expression) - Positfix based text compiler.
 + [View](https://github.com/chcly/Module.View) - Custom widgets and utilities for Qt.
 + [ResourceCompiler](https://github.com/chcly/ResourceCompiler) - Utility to include files in executables.
+
 + [Status](https://github.com/chcly/BuildStatus) - Current build status.
 
 ### Test Modules
