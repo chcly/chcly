@@ -24,7 +24,7 @@ I primarily develop in C++ and extensively use CMake.
 + [Expression](https://github.com/chcly/Module.Expression) - Positfix based text compiler.
 + [View](https://github.com/chcly/Module.View) - Custom widgets and utilities for Qt.
   + [DirView](https://github.com/chcly/DirView) - Sample directory browser.
-+ [Build-Status](https://github.com/chcly/Build.Status.md) - Shows the most recent build status for all projects.
++ [Build-Status](Build.Status.md) - Shows the most recent build status for all projects.
 
 ### Test Modules
 
