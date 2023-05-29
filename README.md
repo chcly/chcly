@@ -19,6 +19,7 @@ I primarily develop in C++ and extensively use CMake.
 + [Xml](https://github.com/chcly/Module.Xml) - Xml parser.
 + [Svg](https://github.com/chcly/Module.Svg) - Utility to aid in visual debugging.
 + [Thread](https://github.com/chcly/Module.Thread) - std::thread utility library, optionally uses TBB.
++ [Sockets](https://github.com/chcly/Module.Sockets) - Utility socket library.
 + [Math](https://github.com/chcly/Module.Math) - Utility math library.
 + [Expression](https://github.com/chcly/Module.Expression) - Positfix based text compiler.
 + [View](https://github.com/chcly/Module.View) - Custom widgets and utilities for Qt.
