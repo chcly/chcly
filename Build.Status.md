@@ -1,15 +1,13 @@
 # Build Status
 
-Updates and builds all repositories found in BuildList.txt and QtBuildList.txt
-
-## Overall Status
+### Overall Status
 
 ![A1](https://github.com/chcly/BuildStatus/actions/workflows/build-linux.yml/badge.svg)
 ![A3](https://github.com/chcly/BuildStatus/actions/workflows/build-qt-linux.yml/badge.svg)
 ![A2](https://github.com/chcly/BuildStatus/actions/workflows/build-windows.yml/badge.svg)
 ![A4](https://github.com/chcly/BuildStatus/actions/workflows/build-qt-windows.yml/badge.svg)
 
-## Project Level
+### Project Level
 
 | Project          | Linux                                                                                         | Windows                                                                                         |
 | ---------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
